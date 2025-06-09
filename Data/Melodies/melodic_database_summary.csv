@@ -1,0 +1,129 @@
+,db_id,db_name,dtype,ctype,country,path,group,desc,n_mel,source
+0,0,jama,kern,Folk,Jamaica,Jamaica/folk,Africa,Songs and ballads from Jamaica,57,McBride
+1,1,siou,kern,Folk,United States of America,Native_American/Densmore/sioux,NatAm,Songs and ballads from the Sioux people,245,Densmore
+2,2,pawn,kern,Folk,United States of America,Native_American/Densmore/pawnee,NatAm,Songs and ballads from the Pawnee people,86,Densmore
+4,4,bach,kern,Art,Germany,Staff/bach,Europe,Bach chorales,370,KernScores
+5,5,nova,kern,Folk,Canada,European/nova_scotia,Europe,Songs and ballads from Nova Scotia Canada.,152,KernScores
+6,6,mrtf,kern,Folk,Netherlands,European/Meertens/MTC-FS-1.0/krn,Europe,Meertens folk songs.,4120,Meertens
+7,7,mrti,kern,Folk,Netherlands,European/Meertens/MTC-INST-1.0/krn,Europe,Meertens instrumental folk songs.,2367,Meertens
+8,8,poli,kern,Folk,Poland,European/polish,Europe,Songs and ballads from Poland,900,KernScores
+9,9,lux,kern,Folk,Luxembourg,European/lux,Europe,Songs and ballads from Luxembourg,549,KernScores
+10,10,lorr,kern,Folk,France,European/lorraine,Europe,Songs and ballads from Lorraine,317,KernScores
+11,11,friu,kern,Folk,Italy,European/friuli,Europe,Songs and ballads from Friuli,80,KernScores
+12,12,irel,kern,Folk,Ireland,European/ireland,Europe,Songs and ballads from Ireland,62,KernScores
+13,13,chil,kern,Folk,England,European/child,Europe,Child ballads from England,38,KernScores
+14,14,deut,kern,Folk,Germany,European/deutscher_lieder,Europe,Songs and ballads from Germany,201,KernScores
+15,15,kirc,kern,Folk,Germany,European/kirchen_lieder,Europe,German church songs,1708,KernScores
+16,16,czec,kern,Folk,Czechia,Essen/europa/czech,Europe,Czech folk songs from the Essen Folk Song Collection.,43,Essen
+17,17,magy,kern,Folk,Hungary,Essen/europa/magyar,Europe,Hungarian folk songs from the Essen Folk Song Collection.,45,Essen
+18,18,nede,kern,Folk,Netherlands,Essen/europa/nederlan,Europe,Dutch folk songs from the Essen Folk Song Collection.,85,Essen
+19,19,elsa,kern,Folk,France,Essen/europa/elsass,Europe,Alsatian folk songs from the Essen Folk Song Collection.,91,Essen
+20,20,jugo,kern,Folk,Yugoslavia,Essen/europa/jugoslav,Europe,Yugoslavian folk songs from the Essen Folk Song Collection.,115,Essen
+21,21,schw,kern,Folk,Switzerland,Essen/europa/schweiz,Europe,Swiss folk songs from the Essen Folk Song Collection.,93,Essen
+22,22,oest,kern,Folk,Austria,Essen/europa/oesterrh,Europe,Austrian folk songs from the Essen Folk Song Collection.,104,Essen
+23,23,fink,kern,Folk,Germany,Essen/europa/deutschl/fink,Europe,German folk songs from the Essen Folk Song Collection: fink.,566,Essen
+24,24,erk,kern,Folk,Germany,Essen/europa/deutschl/erk,Europe,German folk songs from the Essen Folk Song Collection: erk.,1700,Essen
+25,25,ald1,kern,Folk,Germany,Essen/europa/deutschl/altdeu1,Europe,German folk songs from the Essen Folk Song Collection: altdeu1.,309,Essen
+26,26,ald2,kern,Folk,Germany,Essen/europa/deutschl/altdeu2,Europe,German folk songs from the Essen Folk Song Collection: altdeu2.,316,Essen
+27,27,ball,kern,Folk,Germany,Essen/europa/deutschl/ballad,Europe,German folk songs from the Essen Folk Song Collection: ballad.,687,Essen
+28,28,alle,kern,Folk,Germany,Essen/europa/deutschl/allerkbd,Europe,German folk songs from the Essen Folk Song Collection: allerkbd.,110,Essen
+29,29,zucc,kern,Folk,Germany,Essen/europa/deutschl/zuccal,Europe,German folk songs from the Essen Folk Song Collection: zuccal.,616,Essen
+30,30,kind,kern,Child,Germany,Essen/europa/deutschl/kinder,Europe,German folk songs from the Essen Folk Song Collection: kinder.,213,Essen
+31,31,han,kern,Folk,China,Essen/asia/china/han,China,Chinese folk songs (Han region) from the Essen Folk Song Collection.,1222,Essen
+32,32,natm,kern,Folk,China,Essen/asia/china/natmin,China,Chinese folk songs (Natmin region) from the Essen Folk Song Collection.,206,Essen
+33,33,shan,kern,Folk,China,Essen/asia/china/shanxi,China,Chinese folk songs (Shanxi region) from the Essen Folk Song Collection.,802,Essen
+34,34,ml11,kern,Teaching,United States of America,melosol/corpus/krn/Chapter1-I,Europe,MeloSol singing course: Chapter 1-I,180,MeloSol
+35,35,ml12,kern,Teaching,United States of America,melosol/corpus/krn/Chapter1-II,Europe,MeloSol singing course: Chapter 1-II ,107,MeloSol
+36,36,ml13,kern,Teaching,United States of America,melosol/corpus/krn/Chapter1-III,Europe,MeloSol singing course: Chapter 1-III ,125,MeloSol
+37,37,ml14,kern,Teaching,United States of America,melosol/corpus/krn/Chapter1-IV,Europe,MeloSol singing course: Chapter 1-IV ,125,MeloSol
+38,38,ml15,kern,Teaching,United States of America,melosol/corpus/krn/Chapter1-V,Europe,MeloSol singing course: Chapter 1-V ,89,MeloSol
+39,39,ml51,kern,Teaching,United States of America,melosol/corpus/krn/Chapter5-I,Europe,MeloSol singing course: Chapter 5-I,49,MeloSol
+40,40,ml52,kern,Teaching,United States of America,melosol/corpus/krn/Chapter5-II,Europe,MeloSol singing course: Chapter 5-II  ,38,MeloSol
+41,41,ml53,kern,Teaching,United States of America,melosol/corpus/krn/Chapter5-III,Europe,MeloSol singing course: Chapter 5-III,28,MeloSol
+42,42,ml54,kern,Teaching,United States of America,melosol/corpus/krn/Chapter5-IV,Europe,MeloSol singing course: Chapter 5-IV,32,MeloSol
+43,43,mass,kern,Art,France,Josquin/mass,Europe,Josquin Research Project: mass,398,Josquin
+44,44,mote,kern,Art,France,Josquin/motet,Europe,Josquin Research Project: motet,173,Josquin
+45,45,secu,kern,Art,France,Josquin/secular,Europe,Josquin Research Project: secular,148,Josquin
+46,46,de_l,kern,Art,France,Josquin/de_la_rue,Europe,Josquin Research Project: de_la_rue,185,Josquin
+47,47,mart,kern,Art,France,Josquin/martini,Europe,Josquin Research Project: martini,123,Josquin
+48,48,ocke,kern,Art,Netherlands,Josquin/ockeghem,Europe,Josquin Research Project: ockeghem,107,Josquin
+49,49,busn,kern,Art,France,Josquin/busnoys,Europe,Josquin Research Project: busnoys,66,Josquin
+50,50,de_o,kern,Art,Netherlands,Josquin/de_orto,Europe,Josquin Research Project: de orto,43,Josquin
+51,51,bulg,midi,Folk,Bulgaria,Bulgaria,Europe,Bulgarian folk tunes.,79,ABC
+52,52,isra,midi,Folk,Israel,Israel,MidEast,Israeli folk tunes.,201,ABC
+53,53,klez,midi,Folk,Israel,klezmer,MidEast,Klezmer folk tunes.,400,ABC
+54,54,mace,midi,Folk,Macedonia,Macedonia,Europe,Macedonian folk tunes.,58,ABC
+55,55,roma,midi,Folk,Romania,Romania,Europe,Romanian folk tunes.,76,ABC
+56,56,serb,midi,Folk,Serbia,Serbia,Europe,Serbian folk tunes.,70,ABC
+57,57,moza,midi,Art,Austria,Mozart,Europe,Mozart operas,82,Mozart Opera
+58,58,schu,midi,Art,Austria,Schubert,Europe,Schubert lieder,72,Lieder
+59,59,symbF,txt,Folk,Turkey,SymbTr/midi_sorted/folk,MidEast,Turkish folk tunes,309,SymbTr
+60,60,symbC,txt,Art,Turkey,SymbTr/midi_sorted/classical,MidEast,Turkish classical tunes,1713,SymbTr
+61,61,acom,kern,Folk,United States of America,Native_American/Densmore/acoma,NatAm,Music of the Acomi; Isleta; Cochiti; and Zuni Pueblos,82,Densmore
+62,62,bcol,kern,Folk,United States of America,Native_American/Densmore/british_columbia,NatAm,Songs and ballads from native people from the British Colombia area,98,Densmore
+63,63,chey,kern,Folk,United States of America,Native_American/Densmore/cheyenne_and_arapaho,NatAm,Songs and ballads from the Cheyenne and Arapaho people,72,Densmore
+64,64,chp1,kern,Folk,United States of America,Native_American/Densmore/chippewa1,NatAm,Songs and ballads from the Chippewa people,186,Densmore
+65,65,chp2,kern,Folk,United States of America,Native_American/Densmore/chippewa2,NatAm,Songs and ballads from the Chippewa people,179,Densmore
+66,66,choc,kern,Folk,United States of America,Native_American/Densmore/choctaw,NatAm,Songs and ballads from the Choctaw people,68,Densmore
+67,67,maid,kern,Folk,United States of America,Native_American/Densmore/maidu,NatAm,Songs and ballads from the Maidu people,53,Densmore
+68,68,mand,kern,Folk,United States of America,Native_American/Densmore/mandan,NatAm,Songs and ballads from the Mandan people,73,Densmore
+69,69,meno,kern,Folk,United States of America,Native_American/Densmore/menominee,NatAm,Songs and ballads from the Menominee people,144,Densmore
+70,70,noot,kern,Folk,United States of America,Native_American/Densmore/nootka,NatAm,Songs and ballads from the Nootka and Quileute people,132,Densmore
+71,71,nute,kern,Folk,United States of America,Native_American/Densmore/northern_ute,NatAm,Songs and ballads from the Northern Ute people,116,Densmore
+72,72,papa,kern,Folk,United States of America,Native_American/Densmore/papago,NatAm,Songs and ballads from the Tohono O'odham people,168,Densmore
+73,73,semi,kern,Folk,United States of America,Native_American/Densmore/seminole,NatAm,Songs and ballads from the Seminole people,247,Densmore
+74,74,yuma,kern,Folk,United States of America,Native_American/Densmore/yuman,NatAm,Songs and ballads from the Yuman people,134,Densmore
+75,75,afr1,midi,Folk,South Africa,africa_n44_Eerola2006_midi/,Africa,Collection of songs from two books covering multiple ethnic groups,90,South Africa
+76,76,lied,midi,Art,Western,Lieder/scores,Europe,Taken from Lieder corpus of Western classical songs,247,Lieder
+77,77,abra,midi,Art,German,"Lieder/scores/Cornelius,_Peter",Europe,Taken from Lieder corpus of Western classical songs,90,Lieder
+78,78,burl,midi,Art,German,"Lieder/scores/Schröter,_Corona",Europe,Taken from Lieder corpus of Western classical songs,25,Lieder
+79,79,parr,midi,Art,German,"Lieder/scores/Franz,_Robert",Europe,Taken from Lieder corpus of Western classical songs,28,Lieder
+80,80,butt,midi,Art,British,"Lieder/scores/Warlock,_Peter",Europe,Taken from Lieder corpus of Western classical songs,22,Lieder
+81,81,warl,midi,Art,German,"Lieder/scores/Faisst,_Clara_Mathilda",Europe,Taken from Lieder corpus of Western classical songs,26,Lieder
+82,82,phil,midi,Art,Austrian,"Lieder/scores/Wolf,_Hugo",Europe,Taken from Lieder corpus of Western classical songs,22,Lieder
+83,83,kral,midi,Art,German,"Lieder/scores/Reichardt,_Louise",Europe,Taken from Lieder corpus of Western classical songs,43,Lieder
+84,84,reic,midi,Art,German,"Lieder/scores/Brahms,_Johannes",Europe,Taken from Lieder corpus of Western classical songs,104,Lieder
+85,85,free,midi,Art,Austrian,"Lieder/scores/Schubert,_Franz",Europe,Taken from Lieder corpus of Western classical songs,82,Lieder
+86,86,brid,midi,Art,French,"Lieder/scores/Viardot,_Pauline",Europe,Taken from Lieder corpus of Western classical songs,21,Lieder
+87,87,thys,midi,Art,French,"Lieder/scores/Holmès,_Augusta_Mary_Anne",Europe,Taken from Lieder corpus of Western classical songs,73,Lieder
+88,88,jaël,midi,Art,French,"Lieder/scores/Chaminade,_Cécile",Europe,Taken from Lieder corpus of Western classical songs,31,Lieder
+89,89,webe,midi,Art,German,"Lieder/scores/Lang,_Josephine",Europe,Taken from Lieder corpus of Western classical songs,52,Lieder
+90,90,par2,midi,Art,English,"Lieder/scores/Lehmann,_Liza",Europe,Taken from Lieder corpus of Western classical songs,26,Lieder
+91,91,lind,midi,Art,German,"Lieder/scores/Schumann,_Robert",Europe,Taken from Lieder corpus of Western classical songs,36,Lieder
+92,92,cord,midi,Art,German,"Lieder/scores/Kinkel,_Johanna",Europe,Taken from Lieder corpus of Western classical songs,45,Lieder
+93,93,davi,midi,Art,German,"Lieder/scores/Hensel,_Fanny_(Mendelssohn)",Europe,Taken from Lieder corpus of Western classical songs,35,Lieder
+94,94,finn,mat,Folk,Finnish,Other/finfolktunes,Europe,Collection of Finnish folk songs,8613,Finnish
+95,95,hens,kern,Art,German,19th-century-art-songs-by-German-composers/Hensel,Europe,Taken from Leigh VanHandel corpus of Western classical songs,50,ArtSong
+96,96,wolf,kern,Art,German,19th-century-art-songs-by-German-composers/Wolf,Europe,Taken from Leigh VanHandel corpus of Western classical songs,82,ArtSong
+97,97,corn,kern,Art,German,19th-century-art-songs-by-German-composers/Cornelius,Europe,Taken from Leigh VanHandel corpus of Western classical songs,25,ArtSong
+98,98,rei2,kern,Art,German,19th-century-art-songs-by-German-composers/Reichardt,Europe,Taken from Leigh VanHandel corpus of Western classical songs,30,ArtSong
+99,99,stra,kern,Art,German,19th-century-art-songs-by-German-composers/Strauss,Europe,Taken from Leigh VanHandel corpus of Western classical songs,33,ArtSong
+100,100,sch2,kern,Art,German,19th-century-art-songs-by-German-composers/Schubert,Europe,Taken from Leigh VanHandel corpus of Western classical songs,121,ArtSong
+101,101,mend,kern,Art,German,19th-century-art-songs-by-German-composers/Mendelssohn,Europe,Taken from Leigh VanHandel corpus of Western classical songs,56,ArtSong
+102,102,sch3,kern,Art,German,19th-century-art-songs-by-German-composers/Schumann,Europe,Taken from Leigh VanHandel corpus of Western classical songs,123,ArtSong
+103,103,fran,kern,Art,German,19th-century-art-songs-by-German-composers/Franz,Europe,Taken from Leigh VanHandel corpus of Western classical songs,61,ArtSong
+104,104,brah,kern,Art,German,19th-century-art-songs-by-German-composers/Brahms,Europe,Taken from Leigh VanHandel corpus of Western classical songs,52,ArtSong
+105,105,lang,kern,Art,German,19th-century-art-songs-by-German-composers/Lang,Europe,Taken from Leigh VanHandel corpus of Western classical songs,27,ArtSong
+106,106,faur,kern,Art,French,19th-century-art-songs-by-French-composers/Faure,Europe,Taken from Leigh VanHandel corpus of Western classical songs,64,ArtSong
+107,107,debu,kern,Art,French,19th-century-art-songs-by-French-composers/Debussy,Europe,Taken from Leigh VanHandel corpus of Western classical songs,33,ArtSong
+108,108,goun,kern,Art,French,19th-century-art-songs-by-French-composers/Gounod,Europe,Taken from Leigh VanHandel corpus of Western classical songs,51,ArtSong
+109,109,rebe,kern,Art,French,19th-century-art-songs-by-French-composers/Reber,Europe,Taken from Leigh VanHandel corpus of Western classical songs,30,ArtSong
+110,110,chau,kern,Art,French,19th-century-art-songs-by-French-composers/Chausson,Europe,Taken from Leigh VanHandel corpus of Western classical songs,30,ArtSong
+111,111,dav2,kern,Art,French,19th-century-art-songs-by-French-composers/David,Europe,Taken from Leigh VanHandel corpus of Western classical songs,33,ArtSong
+112,112,mas2,kern,Art,French,19th-century-art-songs-by-French-composers/Massenet,Europe,Taken from Leigh VanHandel corpus of Western classical songs,39,ArtSong
+113,113,bize,kern,Art,French,19th-century-art-songs-by-French-composers/Bizet,Europe,Taken from Leigh VanHandel corpus of Western classical songs,24,ArtSong
+114,114,vend,kern,Child,Venda,Africa/Venda,Africa,"Venda Children's Songs by John Blacking",60,McBride
+116,116,ghan,kern,Folk,Ghana,Africa/Ghana,Africa,"Folk Songs of Ghana by JH Nketia Kwabena",58,McBride
+117,117,slav,kern,Folk,United States of America,Africa/Slave,Africa,"Slave Songs of the United States",135,McBride
+118,118,noch,kern,Child,United States of America,Native_American/Densmore/nootka_child,NatAm,Songs and ballads for children from the Nootka and Quileute people,132,Densmore
+119,119,jach,kern,Child,Jamaica,Jamaica/child,Africa,"Children's songs from Jamaica",17,McBride
+120,120,mech,midi,Folk,Mexico,Mexico/BethNotes,Mexico,"Educational songs from Mexico",56,BethNotes
+121,121,hawa,midi,Folk,Hawaii,Hawaii,Hawaii,"Educational songs from Hawai'i",22,BethNotes
+122,122,ives,kern,Art,United States of America,Ives,Europe,"Songs by Charles Ives",31,McBride
+123,123,kor1,kern,Folk,Korea,EastAsia/Korea/Chunhyangga,Korea,"Folk songs of Korea",46,McBride
+124,124,kor2,kern,Folk,Korea,EastAsia/Korea/FolkSongsOfKorea,Korea,"Folk songs of Korea",50,McBride
+125,125,kyrg,kern,Folk,Kyrgyzstan,Kyrgyz,Kyrgystan,"Janos Sipos paper",85,McBride
+126,126,okif,kern,Folk,Okinawa,EastAsia/Okinawa/Folk,Japan,"Okinawa Folk Songs",179,McBride
+127,127,okic,kern,Child,Okinawa,EastAsia/Okinawa/Child,Japan,"Okinawa Children's Songs",49,McBride
+128,128,mexc,kern,Child,Mexico,Child/Mexican,Mexico,"El patio de me casa",28,McBride
+129,129,engc,kern,Child,England,Child/English,Europe,"Nursery Rhymes",50,McBride
